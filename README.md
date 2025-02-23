@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript programming: runtime errors caused by late binding and implicit type conversion.  The `bug.vbs` file showcases the problematic code, while `bugSolution.vbs` provides a corrected version with improved error handling and type checking.  The focus is on preventing type mismatches and enhancing robustness.
